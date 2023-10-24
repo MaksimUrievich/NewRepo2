@@ -99,7 +99,7 @@ namespace MyFirstConsoleApp
             }
         }
 
-        private void timeTextBlock_MouseDown(object sender, MouseButtonEventArgs e)
+        private void TimeTextBlock_MouseDown(object sender, MouseButtonEventArgs e)
         {
             if(matchesFound == 8)
             {
